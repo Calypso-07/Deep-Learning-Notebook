@@ -1,1 +1,3 @@
 # Deep-Learning-Notebook
+
+This program I wrote handles data preprocessing (missing values, outliers, encoding, scaling), performs feature engineering, builds and tunes a neural network model, and evaluates it using cross-validation and F1 score. The SMOTE technique ensures that the model learns from a balanced dataset, and feature importance analysis helps refine the model further. The model is trained on a well-prepared dataset, taking into account the complexity of the data. Each step plays a crucial role in improving the model’s performance and contributes to the success of the final submission.
